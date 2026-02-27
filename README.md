@@ -1,7 +1,7 @@
 # Healthreports
 
 **当一场大病降临：14亿人的健康账本**  
-一份 AI 辅助生成的健康数据报告（含可视化图表与政策解读，单文件 HTML，零外部依赖）。
+一份 AI 辅助生成的健康数据报告。
 
 ## 在线阅读
 👉 https://dingchenchen6.github.io/Healthreports/
